@@ -2,7 +2,6 @@
 
 Agenda interativa para organizar rotina.
 
-![Agenda Preview](https://via.placeholder.com/800x400/7c3aed/ffffff?text=Minha+Agenda+Pessoal)
 
 ## ✨ Funcionalidades
 
@@ -30,7 +29,7 @@ Agenda interativa para organizar rotina.
 
 ## 🚀 Como acessar
 
-**Link direto:** [deleuzeano.github.io/minha-agenda](https://deleuzeano.github.io/minha-agenda)
+**Link direto:** https://deleuzeano.github.io/agenda/
 
 ### Instalar no celular:
 
